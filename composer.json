@@ -1,13 +1,12 @@
 {
   "name": "usgm/sdk",
-  "version": "0.0.0",
   "description": "Usgm PHP Library",
   "keywords": [
     "usglobalmail",
     "api",
     "sdk"
   ],
-  "license": [],
+  "license": "MIT",
   "require": {
     "php": "^8.1",
     "ext-json": "*",
