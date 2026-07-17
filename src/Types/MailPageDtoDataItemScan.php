@@ -14,7 +14,7 @@ class MailPageDtoDataItemScan extends JsonSerializableType
     public string $uuid;
 
     /**
-     * @var string $status `SUBMITTED`, `IN_PROCESS`, `COMPLETED`, `CANCELLED`, `REJECTED`, `DELETED` or `RESTORING`.
+     * @var string $status `IN_PROCESS`, `COMPLETED`, `CANCELLED`, `REJECTED`, `DELETED` or `RESTORING`.
      */
     #[JsonProperty('status')]
     public string $status;

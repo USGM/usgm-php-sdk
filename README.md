@@ -1,6 +1,6 @@
 # USGM PHP SDK
 
-The official PHP SDK for the [US Global Mail Public API](https://docs.usglobalmail.com) — manage your virtual mailbox, scans, shipments, folders, addresses, and account programmatically.
+The official PHP SDK for the [US Global Mail API](https://docs.usglobalmail.com) — manage your virtual mailbox, scans, shipments, folders, addresses, and account programmatically.
 
 ## Requirements
 
